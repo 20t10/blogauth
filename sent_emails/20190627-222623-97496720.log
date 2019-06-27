@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on example.com
+From: webmaster@localhost
+To: infernalvengeance@outlook.com
+Date: Thu, 27 Jun 2019 15:26:23 -0000
+Message-ID: <156164918344.11104.3613074393056532654@DESKTOP-R9186QG>
+
+
+You're receiving this email because you requested a password reset for your user account at example.com.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1/accounts/reset/Mg/57j-ec3083f44eeb73bdf86e/
+
+Your username, in case you've forgotten: userOne
+
+Thanks for using our site!
+
+The example.com team
+
+
+
+-------------------------------------------------------------------------------
